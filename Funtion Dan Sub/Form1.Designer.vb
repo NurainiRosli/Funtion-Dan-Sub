@@ -40,7 +40,7 @@ Partial Class Form1
         Me.btn1.Name = "btn1"
         Me.btn1.Size = New System.Drawing.Size(75, 23)
         Me.btn1.TabIndex = 0
-        Me.btn1.Text = "Button1"
+        Me.btn1.Text = "Submit"
         Me.btn1.UseVisualStyleBackColor = True
         '
         'lbl1
@@ -48,9 +48,8 @@ Partial Class Form1
         Me.lbl1.AutoSize = True
         Me.lbl1.Location = New System.Drawing.Point(356, 133)
         Me.lbl1.Name = "lbl1"
-        Me.lbl1.Size = New System.Drawing.Size(39, 13)
+        Me.lbl1.Size = New System.Drawing.Size(0, 13)
         Me.lbl1.TabIndex = 1
-        Me.lbl1.Text = "Label1"
         '
         'txt1
         '
@@ -65,7 +64,7 @@ Partial Class Form1
         Me.btn2.Name = "btn2"
         Me.btn2.Size = New System.Drawing.Size(75, 23)
         Me.btn2.TabIndex = 3
-        Me.btn2.Text = "Button2"
+        Me.btn2.Text = "Submit"
         Me.btn2.UseVisualStyleBackColor = True
         '
         'lbl2
@@ -73,9 +72,8 @@ Partial Class Form1
         Me.lbl2.AutoSize = True
         Me.lbl2.Location = New System.Drawing.Point(491, 177)
         Me.lbl2.Name = "lbl2"
-        Me.lbl2.Size = New System.Drawing.Size(39, 13)
+        Me.lbl2.Size = New System.Drawing.Size(0, 13)
         Me.lbl2.TabIndex = 4
-        Me.lbl2.Text = "Label2"
         '
         'btn3
         '
@@ -83,7 +81,7 @@ Partial Class Form1
         Me.btn3.Name = "btn3"
         Me.btn3.Size = New System.Drawing.Size(75, 23)
         Me.btn3.TabIndex = 5
-        Me.btn3.Text = "Button3"
+        Me.btn3.Text = "Submit"
         Me.btn3.UseVisualStyleBackColor = True
         '
         'lbl3
@@ -91,9 +89,8 @@ Partial Class Form1
         Me.lbl3.AutoSize = True
         Me.lbl3.Location = New System.Drawing.Point(359, 227)
         Me.lbl3.Name = "lbl3"
-        Me.lbl3.Size = New System.Drawing.Size(39, 13)
+        Me.lbl3.Size = New System.Drawing.Size(0, 13)
         Me.lbl3.TabIndex = 6
-        Me.lbl3.Text = "Label3"
         '
         'txt2
         '
@@ -108,7 +105,7 @@ Partial Class Form1
         Me.btn4.Name = "btn4"
         Me.btn4.Size = New System.Drawing.Size(75, 23)
         Me.btn4.TabIndex = 8
-        Me.btn4.Text = "Button4"
+        Me.btn4.Text = "Submit"
         Me.btn4.UseVisualStyleBackColor = True
         '
         'lbl4
@@ -116,9 +113,8 @@ Partial Class Form1
         Me.lbl4.AutoSize = True
         Me.lbl4.Location = New System.Drawing.Point(490, 280)
         Me.lbl4.Name = "lbl4"
-        Me.lbl4.Size = New System.Drawing.Size(39, 13)
+        Me.lbl4.Size = New System.Drawing.Size(0, 13)
         Me.lbl4.TabIndex = 9
-        Me.lbl4.Text = "Label4"
         '
         'Form1
         '
